@@ -20,5 +20,8 @@ In this project the main goal is to classify tumors with less predictors (withou
 
 ## Choosing The Best Model
 - First cross validation performed for each model(Logistic Regression and Gaussian Naive Bayes). And then ROC AUC scores calculated for each model's cross validation.
+<img width="372" alt="crossvalidationrocauc" src="https://github.com/emirdoogan/breast_cancer_tumor_classification/assets/55497482/38be7e43-4afe-43e2-ae47-1a4373f66734">
+- Compare the performance metrics(ROC AUC, Precision, Recall, F1 Score) after splitting the dataset into a test and training data.
+      
 
 

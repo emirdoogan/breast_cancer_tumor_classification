@@ -30,6 +30,11 @@ In this project the main goal is to classify tumors with less predictors (withou
 <img width="457" alt="Screen Shot 2023-09-20 at 7 23 04 PM" src="https://github.com/emirdoogan/breast_cancer_tumor_classification/assets/55497482/792c70a5-bf9b-49f9-b71f-ec46ea6b374e">
 
 - Visualize the ROC curves for both models.
+  
+![ROC](https://github.com/emirdoogan/breast_cancer_tumor_classification/assets/55497482/49f7df45-d402-4260-b155-80a8138761c5)
+
+## Conclusion
+- Logistic Regression works better based on cross-validation metrics and performance metrics.
  
       
 

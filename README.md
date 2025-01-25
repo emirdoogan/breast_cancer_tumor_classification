@@ -10,6 +10,8 @@ In this project the main goal is to classify tumors with less predictors (withou
 
 ## Data Exploration
 - Some basic data exploration to understand the dataset better. For example count the total numbers of benign and malignant tumors:
+
+
   ![countplot](https://github.com/emirdoogan/breast_cancer_tumor_classification/blob/608aeefdcbbb5c02a0f6f7a8981496b01416d14d/countplot.png)
 
 - Also looked for the correlations between features before creating the model.
